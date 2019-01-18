@@ -4,7 +4,7 @@ h1 {font-weight: bold;
 	font-size: 1.75em;
 }
 div {
-	background-color: gray; float: left.;
+	background-color: gray; float: left;
 }
 @media (min-width: 992px) {
 	.col{width: 27.33%; border: 1px solid black; float: left; margin: 3%}
